@@ -1,0 +1,8 @@
+---
+title: "Basic Description"
+author: "Leticia Spindola"
+date: "7/18/2017"
+output: html_document
+---
+
+Here's some stuff to start thing off. 
