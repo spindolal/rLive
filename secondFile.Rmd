@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+author: "Leticia Spindola"
+date: "7/18/2017"
+output: html_document
+---
+
+something else I thougth 
